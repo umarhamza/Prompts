@@ -1,4 +1,8 @@
-# Daily Expense Tracker
+# Prompts
+
+These are copied from https://github.com/VoloBuilds/prompts
+
+And I'm planning to add some of my own
 
 plan_feature.md
 
