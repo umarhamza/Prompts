@@ -29,6 +29,30 @@ write_docs.md
 
 ---------------
 
+### Project Feature Audit Command
+
+#### Usage (in Cursor IDE)
+
+##### Option 1
+```
+@create_project_features_list.md 
+Please audit my React project using this template
+```
+
+##### Option 2
+```
+@create_project_features_list.md 
+audit-project [REPO_PATH] [OPTIONS]
+```
+
+##### Option 3
+```
+@create_project_features_list.md 
+audit-project . --output="./PROJECT_FEATURES.md"
+```
+
+--------------
+
 we need a plan.md file for refactoring
 
 we need a plan.md file for creating a project brief for an existing project
