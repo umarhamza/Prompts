@@ -1,9 +1,3 @@
-Short answer: almost. It’s structurally similar (concise, sectioned, technical), but to truly match your house style you should (a) specify the output file path, (b) explicitly exclude PM-style sections and any code, and (c) allow up to five clarifying questions before writing, just like your templates.   &#x20;
-
-Here’s a tightened version that mirrors your attached files:
-
----
-
 # Prompt: Project Technology & Structure Audit (match house style)
 
 **Goal**
@@ -69,7 +63,3 @@ A single markdown doc saved to **`docs/PROJECT_AUDIT.md`** (unless a different p
 
 * State only what’s evidenced in files; mark unknowns and what to check next.
 * Use British spelling and tight bullets.
-
----
-
-Why these tweaks: your **feature plan** template mandates a purely technical deliverable, no PM sections or code, with file/function pointers and optional phases, and emphasises concision and (if needed) limited clarifying questions; your **product brief** template also enforces brevity and a fixed output path—so this audit now follows that same house style.   &#x20;
