@@ -33,22 +33,18 @@ write_docs.md
 
 #### Usage (in Cursor IDE)
 
-##### Option 1
+##### Options
 ```
-@list_project_features.md 
-Please audit my React project using this template
-```
+@list_project_features.md
 
-##### Option 2
-```
-@list_project_features.md 
-audit-project [REPO_PATH] [OPTIONS]
-```
+# Analyze current directory
+list-features .
 
-##### Option 3
-```
-@list_project_features.md 
-audit-project . --output="./PROJECT_FEATURES.md"
+# Analyze specific project
+list-features /path/to/my-app
+
+# Quick feature check
+list-features ./ecommerce-site
 ```
 
 --------------
