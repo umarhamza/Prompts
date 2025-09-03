@@ -35,19 +35,19 @@ write_docs.md
 
 ##### Option 1
 ```
-@create_project_features_list.md 
+@list_project_features.md 
 Please audit my React project using this template
 ```
 
 ##### Option 2
 ```
-@create_project_features_list.md 
+@list_project_features.md 
 audit-project [REPO_PATH] [OPTIONS]
 ```
 
 ##### Option 3
 ```
-@create_project_features_list.md 
+@list_project_features.md 
 audit-project . --output="./PROJECT_FEATURES.md"
 ```
 
